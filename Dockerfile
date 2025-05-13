@@ -1,6 +1,5 @@
-FROM eclipse-temurin:17-jre-alpine AS base
+FROM eclipse-temurin:17-jre
 
-# JAR_FILE будет подхвачен во время docker build
 ARG JAR_FILE=target/sub-manager-0.0.1-SNAPSHOT.jar
 COPY ${JAR_FILE} app.jar
 
