@@ -1,0 +1,15 @@
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/SubManagerApplication.java
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/common/ApiExceptionHandler.java
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/subscriptions/controller/PopularController.java
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/subscriptions/controller/SubscriptionController.java
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/subscriptions/dto/CreateSubscriptionRequest.java
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/subscriptions/dto/SubscriptionDto.java
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/subscriptions/model/Subscription.java
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/subscriptions/repository/SubscriptionRepository.java
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/subscriptions/service/SubscriptionService.java
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/users/controller/UserController.java
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/users/dto/CreateUserRequest.java
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/users/dto/UserDto.java
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/users/model/User.java
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/users/repository/UserRepository.java
+/Users/azim98/Documents/sub-manager/src/main/java/ru/sample/submanager/users/service/UserService.java

@@ -1,0 +1,17 @@
+ru/sample/submanager/common/ApiExceptionHandler.class
+ru/sample/submanager/subscriptions/dto/CreateSubscriptionRequest.class
+ru/sample/submanager/subscriptions/model/Subscription.class
+ru/sample/submanager/users/service/UserService.class
+ru/sample/submanager/subscriptions/repository/SubscriptionRepository.class
+ru/sample/submanager/SubManagerApplication.class
+ru/sample/submanager/users/controller/UserController.class
+ru/sample/submanager/subscriptions/model/Subscription$SubscriptionBuilder.class
+ru/sample/submanager/users/model/User$UserBuilder.class
+ru/sample/submanager/users/repository/UserRepository.class
+ru/sample/submanager/subscriptions/service/SubscriptionService.class
+ru/sample/submanager/users/dto/UserDto.class
+ru/sample/submanager/subscriptions/controller/SubscriptionController.class
+ru/sample/submanager/users/dto/CreateUserRequest.class
+ru/sample/submanager/subscriptions/controller/PopularController.class
+ru/sample/submanager/users/model/User.class
+ru/sample/submanager/subscriptions/dto/SubscriptionDto.class
